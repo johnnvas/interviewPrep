@@ -17,9 +17,9 @@
 // 1 <= n <= 8
 
 
-class Solution {
-public:
-    vector<string> generateParenthesis(int n) {
+// class Solution {
+// public:
+//     vector<string> generateParenthesis(int n) {
 
-    }
-};
+//     }
+// };
